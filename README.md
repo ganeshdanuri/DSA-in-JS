@@ -2,6 +2,8 @@
 
 Welcome to the Data Structures and Algorithms repository implemented in JavaScript! This repository is dedicated to providing comprehensive implementations of various data structures and algorithms commonly used in computer science and software development.
 
+This repository contains solutions to a wide range of problems sourced from LeetCode. Whether you're a beginner or an experienced coder, practicing with LeetCode problems is an excellent way to improve your algorithmic problem-solving skills and prepare for technical interviews. Each solution is implemented in JavaScript and thoroughly explained.
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
@@ -13,6 +15,16 @@ Welcome to the Data Structures and Algorithms repository implemented in JavaScri
 ## Introduction
 
 Understanding data structures and algorithms is crucial for any software developer. Whether you're a beginner or an experienced programmer, this repository aims to provide clear and concise implementations of essential data structures and algorithms using JavaScript.
+
+## Solutions
+
+The solutions are categorized based on the problem difficulty and type. Here's an overview of the categories:
+
+- **Easy Problems**: Solutions to problems classified as easy difficulty on LeetCode.
+- **Medium Problems**: Solutions to problems classified as medium difficulty on LeetCode.
+- **Hard Problems**: Solutions to problems classified as hard difficulty on LeetCode.
+
+Each problem solution includes the problem description, the implemented solution in JavaScript, explanations of the approach used, and any relevant tips or insights.
 
 ## Data Structures
 
